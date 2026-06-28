@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Finance",
+  "description": "แอปพลิเคชันจัดการการเงินส่วนบุคคลที่เรียบหรูและใช้งานง่าย ช่วยให้คุณติดตามรายรับ รายจ่าย ยอดคงเหลือ และจัดการธุรกรรมได้อย่างมีประสิทธิภาพ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
